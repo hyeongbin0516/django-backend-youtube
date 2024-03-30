@@ -1,0 +1,17 @@
+# 필요없는건 올리지 않겠다
+
+# GIT
+.git
+.gitignore
+
+# Docker
+.Docker
+
+# Python
+app/__pycache__/
+app/*/__pycache__/
+app/*/*/__pycache__/
+app/*/*/*/__pycache__/
+.env/
+.venv/
+venv/
